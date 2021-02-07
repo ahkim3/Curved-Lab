@@ -1,0 +1,16 @@
+joan 55
+joe 60
+jane 60
+jim 65
+janet 70
+john 70 
+johanna 75
+jack 75
+joeline 75
+jacques 75
+josh 80
+janna 80
+jason 85
+jadzia 90 
+jon 90
+jackie 95
