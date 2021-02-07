@@ -4,7 +4,7 @@
 
 ## Prompt
 
-![Curved Lab Prompt](https://github.com/ahkim3/Curved-Lab/blob/main/Curved%20Lab.png?raw=true "Prompt")
+![Curved Lab Prompt](https://github.com/ahkim3/Curved-Lab/blob/main/Curved%20Lab%20Prompt.png?raw=true "Prompt")
 
 ## Authors
 - Andrew Kim
